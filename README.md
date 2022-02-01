@@ -1,1 +1,9 @@
-# Short-Quotes-HTML-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Double Quote Example</title>
+</head>
+<body>
+<p>Amit is in Spain, <q>I think I am wrong</q>.</p>
+</body>
+</html>
